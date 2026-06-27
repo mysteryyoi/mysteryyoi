@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://tenor.com/view/cecesgif-cecesgifs-cecesrhaccc1-cecerhaccc1-on-tiktok-meme-gif-3778785650570707238.gif" width="250" />
 
-<!--
-**mysteryyoi/mysteryyoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
+  
+  <h3>
+    <i>Thou shalt code. Thou shalt not error. Blessèd be Claude. Here lieth StackOverflow, may it rest. 🕯️</i><br><br>
+    <i>Verily I ship, and lo, the build doth pass. Praise be unto Claude. RIP StackOverflow, thou served well. 🪦</i><br><br>
+    <i>And it came to pass that the code compiled. Bless Claude. Mourn ye StackOverflow, gone but copy-pasted. ⚰️</i>
+  </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
