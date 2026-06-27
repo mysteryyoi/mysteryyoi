@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://tenor.com/view/cecesgif-cecesgifs-cecesrhaccc1-cecerhaccc1-on-tiktok-meme-gif-3778785650570707238.gif" width="250" />
+  <img src="https://tenor.com/view/cecesgif-cecesgifs-cecesrhaccc1-cecerhaccc1-on-tiktok-meme-gif-3778785650570707238.gif" width="963" />
 
   <br/>
   
